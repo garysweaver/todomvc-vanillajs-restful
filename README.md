@@ -29,7 +29,7 @@ http://localhost:8080/todomvc-vanillajs-restful/
 
 ### Issues
 
-Currently marking all and deleting all doesn't work yet.
+Currently marking all and deleting all doesn't work yet. Editing doesn't work either.
 
 ### License
 
