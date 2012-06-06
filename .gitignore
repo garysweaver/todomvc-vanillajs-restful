@@ -1,0 +1,11 @@
+*.idea
+*.ids
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.swp
+Session.vim
+target/
+tmp/
+*jboss*/
