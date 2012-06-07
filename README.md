@@ -25,7 +25,7 @@ If you cloned the todomvc-services-javaee6 and this project into the same dir, a
 
 ### Testing
 
-[http://localhost:8080/todomvc-vanillajs-restful/]
+[http://localhost:8080/todomvc-vanillajs-restful/][localhost]
 
 ### Issues
 
@@ -38,4 +38,5 @@ Copyright (c) 2012 Gary S. Weaver, released under the [MIT license][lic].
 [services]: http://github.com/garysweaver/todomvc-vanillajs-restful
 [todomvc]: https://github.com/addyosmani/todomvc
 [todomvcvanilla]: https://github.com/addyosmani/todomvc/tree/master/reference-examples/vanillajs
+[localhost]: http://localhost:8080/todomvc-vanillajs-restful/
 [lic]: http://github.com/garysweaver/todomvc-vanillajs-restful/blob/master/LICENSE
