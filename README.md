@@ -5,7 +5,7 @@ An example of TodoMVC client that uses RESTful services such as todomvc-services
 
 Based on [VanillaJS][todomvcvanilla] (plain Javascript) [TodoMVC][todomvc] implementation, but using JQuery for some of the Ajax for now.
 
-Is just HTML, Javascript, and CSS but packaged as war for now so could be easily deployed to same JBoss server as todomvc-services-javaee6 until have time to test out with a CORS implementation.
+Even though it is just HTML, Javascript, and CSS and could be hosted anywhere on the same host and port, it is packaged as war for now, so it can be easily deployed to same JBoss server as todomvc-services-javaee6. Later when I have time to test out with CORS, it may be hosted separately.
 
 Has been tested in JBoss 7.1.1.Final in OS X 10.7.4.
 
@@ -25,7 +25,7 @@ If you cloned the todomvc-services-javaee6 and this project into the same dir, a
 
 ### Testing
 
-http://localhost:8080/todomvc-vanillajs-restful/
+[http://localhost:8080/todomvc-vanillajs-restful/]
 
 ### Issues
 
