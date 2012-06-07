@@ -29,7 +29,15 @@ If you cloned the todomvc-services-javaee6 and this project into the same dir, a
 
 ### Issues
 
-Currently marking all and deleting all doesn't work yet. Editing doesn't work either.
+The following should work, at least if the [todomvc-services-javaee6][services] and this war have the same host/port:
+* Adding a Todo
+* Removing a single Todo
+* Marking/unmarking a single Todo as completed
+
+What doesn't work yet:
+* Editing a Todo (title)
+* Marking all Todo's as completed
+* Deleting all Todo's that are completed
 
 ### License
 
