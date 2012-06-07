@@ -1,11 +1,11 @@
 TodoMVC Javascript Client for RESTful Services
 =====
 
-An example of TodoMVC client that uses RESTful services such as todomvc-services-javaee6.
+An example of TodoMVC client that uses RESTful services such as [todomvc-services-javaee6][services].
 
 Based on [VanillaJS][todomvcvanilla] (plain Javascript) [TodoMVC][todomvc] implementation, but using JQuery for some of the Ajax for now.
 
-Even though it is just HTML, Javascript, and CSS and could be hosted anywhere on the same host and port, it is packaged as war for now, so it can be easily deployed to same JBoss server as todomvc-services-javaee6. Later when I have time to test out with CORS, it may be hosted separately.
+Even though it is just HTML, Javascript, and CSS and could be hosted anywhere on the same host and port, it is packaged as war for now, so it can be easily deployed to same JBoss server as [todomvc-services-javaee6][services]. Later when I have time to test out with CORS, it may be hosted separately.
 
 Has been tested in JBoss 7.1.1.Final in OS X 10.7.4.
 
@@ -35,6 +35,7 @@ Currently marking all and deleting all doesn't work yet. Editing doesn't work ei
 
 Copyright (c) 2012 Gary S. Weaver, released under the [MIT license][lic].
 
+[services]: http://github.com/garysweaver/todomvc-vanillajs-restful
 [todomvc]: https://github.com/addyosmani/todomvc
 [todomvcvanilla]: https://github.com/addyosmani/todomvc/tree/master/reference-examples/vanillajs
 [lic]: http://github.com/garysweaver/todomvc-vanillajs-restful/blob/master/LICENSE
